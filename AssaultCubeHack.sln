@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssaultCubeHack", "AssaultCubeHack\AssaultCubeHack.vcxproj", "{78899F84-4624-406E-B318-7EECA32DDB01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78899F84-4624-406E-B318-7EECA32DDB01}.Debug|x64.ActiveCfg = Debug|x64
+		{78899F84-4624-406E-B318-7EECA32DDB01}.Debug|x64.Build.0 = Debug|x64
+		{78899F84-4624-406E-B318-7EECA32DDB01}.Debug|x86.ActiveCfg = Debug|Win32
+		{78899F84-4624-406E-B318-7EECA32DDB01}.Debug|x86.Build.0 = Debug|Win32
+		{78899F84-4624-406E-B318-7EECA32DDB01}.Release|x64.ActiveCfg = Release|x64
+		{78899F84-4624-406E-B318-7EECA32DDB01}.Release|x64.Build.0 = Release|x64
+		{78899F84-4624-406E-B318-7EECA32DDB01}.Release|x86.ActiveCfg = Release|Win32
+		{78899F84-4624-406E-B318-7EECA32DDB01}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80AEA63-BC69-447E-9089-F53B995F131B}
+	EndGlobalSection
+EndGlobal
